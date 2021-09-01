@@ -1,4 +1,4 @@
-<h1><a href="https://wesupplylabs.com/bopis-buy-online-pickup-in-store-bopac-buy-online-pickup-at-curbside-features/">Curbside Pickup (BOPAC) & Buy Online Pickup in Store (BOPIS) & for Magento 2</a></h1>
+<h1><a href="https://wesupplylabs.com/bopis-buy-online-pickup-in-store-bopac-buy-online-pickup-at-curbside-features/">Curbside Pickup (BOPAC) & Buy Online Pickup in Store (BOPIS) for Magento 2</a></h1>
 <br/><br/>
 <table>
   <tr>
