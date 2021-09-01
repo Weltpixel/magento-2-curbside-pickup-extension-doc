@@ -15,10 +15,34 @@
 With the WeSupply Magento 2 Store Pickup extension, once the order is ready, the customer is notified via SMS or Email that it's available for pickup. All they need to do once they've received the message is to head over to the guest service and verify a "one time PIN code" before picking up their order, improving the user experience and helping store owners prepare for customer arrival efficiently.
 </p>
 <p><img src="https://wesupplylabs.com/wp-content/uploads/2020/05/pick-up.png"></p>
-    
+    <h2>What is a Curbside Pickup Solution and why do you need it?</h2>
+<p>
+Curbside pickup has given many retailers the opportunity to continue operating and serve customers while practicing social distancing. Even as some stores reopen, other regions are tightening restrictions, yet people remain cautious due to COVID-19 pandemic fears which means that curbside pick up will be a vital option for quite some time - surging 208% in just 3 weeks from last year’s statistics!
+</p>
+<p>
+A large number of stores have begun adopting Curbside Pickup, meaning your competition may already have a head start. With WeSupply, you can:
+                        </p>
+                        <ul>
+                         <li>
+                          <strong>Automate your curbside pickup communications</strong> by automatically providing customers with clear instructions of when the products are ready for pickup and what to do if they arrive at the store. Empower your employees with detailed information about a customer's vehicle, so that they can help them without delay or waiting time.
+                         </li>
+                         <li>
+<strong>Drive repeat purchases</strong> - Your customers don’t appreciate having to wait in front of your store or call the store for directions. We help you implement a seamless, curbside delivery customer experience that's simple and engaging, giving them increased satisfaction with their visit after their online order!
+                         </li>
+                       </ul>
                         <h3>Download Here: <a href="https://support.wesupplylabs.com/hc/en-us/articles/360037959632-Magento-2-Extension">Magento 2 Curbside & In Store Pickup</a></h3>
 </div></td>
  </tr>
+
+    
+          
+            
+    
+
+          
+    
+    
+  
 </table>
     <h2>Buy Online Return in Store - Drive foot traffic and more revenue to your store via in-store returns</h2>
 <p>
@@ -46,7 +70,6 @@ The physical presence also offers opportunities for retailers like you to not on
 <p>
 With our powerful API, we easily integrate with your ERP and OMS system to import all store orders. We provide an easy self-service return process for customers who need to exchange items from in-store purchases. This will improve customer loyalty while providing a unified experience across the board!
 </p>
-
 <h2>Ditch standard Email Receipts and increase customer engagement with Digital Receipts</h2>
 <p>
 Digital receipts provide a hassle-free way for consumers to keep track of their spending habits, verify transactions and prepare for tax season. More importantly, they hold a wealth of insight that allows retailers to tailor marketing efforts toward different customer wants. With digital receipts in hand as your shopping companion you'll never have an excuse again when someone asks "What did I buy?"
