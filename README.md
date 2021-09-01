@@ -30,7 +30,6 @@ A large number of stores have begun adopting Curbside Pickup, meaning your compe
 <strong>Drive repeat purchases</strong> - Your customers don’t appreciate having to wait in front of your store or call the store for directions. We help you implement a seamless, curbside delivery customer experience that's simple and engaging, giving them increased satisfaction with their visit after their online order!
                          </li>
                        </ul>
-                       <p><img src="https://wesupplylabs.com/wp-content/uploads/2020/05/curbside.png"></p>
                         <h3>Download Here: <a href="https://support.wesupplylabs.com/hc/en-us/articles/360037959632-Magento-2-Extension">Magento 2 Curbside & In Store Pickup</a></h3>
 </div></td>
  </tr>
